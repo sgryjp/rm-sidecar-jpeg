@@ -1,3 +1,6 @@
+# rm-sidecar-jpeg.py version 1.0.0
+# Copyright (C) 2014 Suguru YAMAMOTO
+# https://github.com/sgryjp/rm-sidecar-jpeg
 import os
 import sys
 
